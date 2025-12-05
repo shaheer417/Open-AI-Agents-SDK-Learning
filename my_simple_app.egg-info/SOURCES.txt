@@ -1,0 +1,7 @@
+main.py
+pyproject.toml
+my_simple_app.egg-info/PKG-INFO
+my_simple_app.egg-info/SOURCES.txt
+my_simple_app.egg-info/dependency_links.txt
+my_simple_app.egg-info/entry_points.txt
+my_simple_app.egg-info/top_level.txt
