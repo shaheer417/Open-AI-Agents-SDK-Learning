@@ -1,0 +1,3 @@
+[console_scripts]
+my-packaged-app = my_packaged_app:main
+my-packaged-app-main = my_packaged_app.main:main

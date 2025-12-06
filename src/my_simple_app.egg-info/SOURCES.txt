@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-src/my_simple_app/__init__.py
-src/my_simple_app/__main__.py
-src/my_simple_app.egg-info/PKG-INFO
-src/my_simple_app.egg-info/SOURCES.txt
-src/my_simple_app.egg-info/dependency_links.txt
-src/my_simple_app.egg-info/entry_points.txt
-src/my_simple_app.egg-info/top_level.txt
