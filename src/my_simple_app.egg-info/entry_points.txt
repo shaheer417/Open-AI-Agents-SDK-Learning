@@ -1,0 +1,2 @@
+[console_scripts]
+myapp = my_simple_app.__main__:main
